@@ -77,7 +77,7 @@ Give credit here.
 
 
 ## Contact
-Created by [Lilian (Lilian.Sheridan39@gmail.com] - feel free to contact me!
+Created by [Lilian] (Lilian.Sheridan39@gmail.com) - feel free to contact me!
 
 
 <!-- Optional -->
