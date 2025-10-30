@@ -1,7 +1,7 @@
 # my_KAYTRANADA_mix1
 
 # Project Name
-> Outline a brief description of your project. my KAYTRANADA mix blends two songs by the Canadia rapper and DJ KAYTRANADA, who inspired me to make this project. The project was made on the TunePad platform using Python coding languague where i emulated KAYTRANADA's signature sound and added some original flair
+> My KAYTRANADA mix blends two songs by the Canadian rapper, singer and DJ - KAYTRANADA, who inspired me to make this project. The project was made on the TunePad platform using Python coding languague where i emulated KAYTRANADA's signature sound and added some original flair
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -19,11 +19,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+My project is a prototype of a song in a House x R&B style. The reason why I chose to embark on this artistic challenge is because I want to push myself beyond my comfort zone since I have never created music before, and I want to use this opportunity to experiment with different sounds, rhythms and genres of music. I chose KAYTRANADA as inspiration because I like how he blends a lot of different genres together - electronic, hip-hop, house, R&B to name a few. His innovative style has influenced me to try and come up with something similar of my own. From this artistic challenge, I hope I can advance my music coding skills by making smooth, cohesive songs whilst experimenting with rhythm, layering and genre fusion. 
 
 
 ## Technologies Used
@@ -64,23 +61,23 @@ Project is: _in progress_. I would like to continue adding to this project in th
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- It is only a short song so add more to it
+- Doesn't have very advanced coding
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+-  Experiment more with rhythm 
+-  Add more KAYTRANADA sample songs
 
 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://www.example.com). and [this tutorial] ()
 - Many thanks to...
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Lilian (Lilian.Sheridan39@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
