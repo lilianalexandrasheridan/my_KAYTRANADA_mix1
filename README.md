@@ -1,7 +1,8 @@
 # my_KAYTRANADA_mix1
 
 # Project Name
-> My KAYTRANADA mix blends two songs by the Canadian rapper, singer and DJ - KAYTRANADA, who inspired me to make this project. The project was made on the TunePad platform using Python coding languague where i emulated KAYTRANADA's signature sound and added some original flair
+> My KAYTRANADA mix blends two songs by the Canadian rapper, singer and DJ - KAYTRANADA, who inspired me to make this project. The project was made on the TunePad platform using Python coding languague where i emulated KAYTRANADA's signature sound and added some original flair.
+
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
