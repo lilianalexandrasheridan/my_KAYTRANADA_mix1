@@ -53,7 +53,6 @@ Once imported in Tunepad, use the play button to listen to the music
 Project is: _in progress_. I would like to continue adding to this project in the future.
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
 - It is only a short song so add more to it
@@ -65,10 +64,9 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by...KAYTRANADA 
 - This project was based on [this tutorial](https://www.hooktheory.com/theorytab/view/kaytranada/bus-ride
-). and [this tutorial] (https://www.youtube.com/watch?v=y99m6VPudAo)
+). and (https://www.youtube.com/watch?v=y99m6VPudAo)
 - Many thanks to my peers and my tutor for helpful feedback!
 
 
