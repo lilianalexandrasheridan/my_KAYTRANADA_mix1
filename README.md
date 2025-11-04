@@ -3,7 +3,6 @@
 # Project Name
 > My KAYTRANADA mix blends two songs by the Canadian rapper, singer and DJ - KAYTRANADA, who inspired me to make this project. The project was made on the TunePad platform using Python coding languague where i emulated KAYTRANADA's signature sound and added some original flair.
 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -25,35 +24,30 @@ My project is a prototype of a song in a House x R&B style. The reason why I cho
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- TunePad
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- PWM Synth Bass
+- Electric Bass
+- 808 Drumkit
+- Piano
+- 909 Drumkit
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+<<img width="1811" height="777" alt="image" src="https://github.com/user-attachments/assets/b32f0e44-e914-487a-bb8f-11fa9280af3c" />
+
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+1) download raw json file from git hub (tunepad_project_115880.json)
+2) go to tunepad.com
+3) click on import project and choose the json file
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+Once imported in Tunepad, use the play button to listen to the music 
 
 ## Project Status
 Project is: _in progress_. I would like to continue adding to this project in the future.
@@ -72,13 +66,14 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com). and [this tutorial] ()
-- Many thanks to...
+- This project was inspired by...KAYTRANADA 
+- This project was based on [this tutorial](https://www.hooktheory.com/theorytab/view/kaytranada/bus-ride
+). and [this tutorial] (https://www.youtube.com/watch?v=y99m6VPudAo)
+- Many thanks to my peers and my tutor for helpful feedback!
 
 
 ## Contact
-Created by [Lilian] (Lilian.Sheridan39@gmail.com) - feel free to contact me!
+Created by Lilian (Lilian.Sheridan39@gmail.com) - feel free to contact me!
 
 
 <!-- Optional -->
